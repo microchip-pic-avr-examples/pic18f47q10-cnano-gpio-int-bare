@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>pic18f47q10-curiosity-nano-board-gpio-interrupt-bare</name>
+            <name>pic18f47q10-cnano-gpio-int-bare</name>
             <creation-uuid>877ef1fd-7496-4394-aae8-e0592d223807</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
