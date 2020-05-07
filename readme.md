@@ -77,4 +77,4 @@ Result:
 
 ## Summary 
 
-This project showcases how the General Purpose Input/Output pins on the PIC18-Q43 can be used as inputs and outputs in order to receive an Interrupt-on-Change and drive an LED high or low.
+This project showcases how the General Purpose Input/Output pins on the PIC18F47Q10 can be used as inputs and outputs in order to receive an Interrupt-on-Change and drive an LED high or low.
