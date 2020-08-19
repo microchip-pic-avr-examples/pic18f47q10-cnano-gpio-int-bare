@@ -1,6 +1,6 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
  <article class="markdown-body entry-content p-3 p-md-6" itemprop="This needs to locked down and 'never' changed"><p><a href="https://www.microchip.com" rel="nofollow"><img src="images/MicrochipLogo.png" alt="MCHP" style="max-width:40%;"></a></p>
- 
+
 # PIC18F47Q10 GPIO Interrupt 
 
 ## Objective
@@ -13,7 +13,7 @@ For this example, the RA0 pin is configured as input with IOC enabled on falling
 
 ## Related Documentation
 
-- Technical Brief Link [(linkTBD)](http://www.microchip.com/)
+- [Getting Started with GPIO on PIC18](https://www.microchip.com/wwwappnotes/appnotes.aspx?appnote=en1003275)
 - [PIC18-Q10 Product Family Page](https://www.microchip.com/design-centers/8-bit/pic-mcus/device-selection/pic18f-q10-product-family)
 - [PIC18F47Q10 Data Sheet](http://ww1.microchip.com/downloads/en/DeviceDoc/40002043D.pdf)
 - [PIC18F47Q10 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=pic18f47q10-cnano&type=&language=)
