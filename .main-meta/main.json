@@ -48,9 +48,9 @@
             "PORT"
         ],
         "keywords": [
-            "GPIO",
             "Getting Started",
-            "Interrupt"
+            "Interrupt",
+            "Bare Metal"
         ],
         "additionalData": {
             "longDescription": {
