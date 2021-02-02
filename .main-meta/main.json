@@ -10,12 +10,12 @@
         "shortDescription": "This project showcases how the General Purpose Input/Output (GPIO) pins on the PIC18F47Q10 can be used as inputs and outputs in order to receive an Interrupt-on-Change and drive an LED high or low.",
         "ide": {
             "name": "MPLAB X",
-            "semverRange": ">=5.30"
+            "semverRange": ">=5.30.0"
         },
         "compiler": [
             {
                 "name": "XC8",
-                "semverRange": "^2.10"
+                "semverRange": "^2.10.0"
             }
         ],
         "dfp": {
